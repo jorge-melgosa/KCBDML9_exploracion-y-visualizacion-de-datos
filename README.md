@@ -19,3 +19,7 @@ Utilizamos cuatro gráficos donde comparamos las camas de Madrid con otras varia
 
 
 El dashboard dispone de un flitro génerico que nos da la posibilidad de ver la información por los tipos de camas disponibles. 
+
+### Thumbnail:
+
+![Captura de pantalla 2021-12-11 a las 17 53 27](https://user-images.githubusercontent.com/2152086/145684916-f0763300-2091-44a7-b9e6-81c9645c6559.png)
